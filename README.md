@@ -61,6 +61,16 @@ You can use a tool like Insomnia/Postman Core to test the API routes. Here are s
 
   N/A
 
+  #Screenshots
+  ![image](https://github.com/bbandhu/ORM-E-commerce/blob/main/Assets/Screenshot%202023-05-09%20at%202.01.09%20PM.png)
+  ![image](https://github.com/bbandhu/ORM-E-commerce/blob/main/Assets/Screenshot%202023-05-09%20at%202.01.23%20PM.png)
+  ![image](https://github.com/bbandhu/ORM-E-commerce/blob/main/Assets/Screenshot%202023-05-09%20at%202.01.34%20PM.png)
+  ![image](https://github.com/bbandhu/ORM-E-commerce/blob/main/Assets/Screenshot%202023-05-09%20at%202.02.09%20PM.png)
+  ![image](https://github.com/bbandhu/ORM-E-commerce/blob/main/Assets/Screenshot%202023-05-09%20at%202.03.12%20PM.png)
+  ![image](https://github.com/bbandhu/ORM-E-commerce/blob/main/Assets/Screenshot%202023-05-09%20at%202.05.12%20PM.png)
+
+
+
 
 
 
