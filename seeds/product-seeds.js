@@ -31,6 +31,18 @@ const productData = [
     stock: 22,
     category_id: 2,
   },
+  {
+    product_name: 'Leather Belt',
+    price: 19.99,
+    stock: 8,
+    category_id: 6,
+  },
+  {
+    product_name: 'Wireless Headphones',
+    price: 59.99,
+    stock: 18,
+    category_id: 7,
+  }
 ];
 
 //const seedProducts = () => Product.bulkCreate(productData);
